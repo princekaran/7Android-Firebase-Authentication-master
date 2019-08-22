@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267752296646",
+    "firebase_url": "https://doctordroid-af410.firebaseio.com",
+    "project_id": "doctordroid-af410",
+    "storage_bucket": "doctordroid-af410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267752296646:android:8d719e7d022f8eee",
+        "android_client_info": {
+          "package_name": "org.snowcorp.firebase.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267752296646-dhhuaqiuuafckah6p9gme0ujjnnkvubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bDxHlYYzS4Eyo4BQRSw_gktu2s7kOe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
